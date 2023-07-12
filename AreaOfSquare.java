@@ -1,5 +1,5 @@
 
-package HefShine;
+//Java Program for Finding the Area of Square.
 import java.util.Scanner;
 public class AreaOfSquare{
     public static void main(String[] args) {
