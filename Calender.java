@@ -1,4 +1,4 @@
-package HefShine;
+//java Programf for finding the days weeks years by taking user input.
 import java.util.Scanner;
 
 public class Calender {
